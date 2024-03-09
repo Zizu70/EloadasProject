@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EloadasProject", "EloadasProject\EloadasProject.csproj", "{EA3EB4DC-769D-453E-B7A6-DFB458C75ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEloadasProject", "TestEloadasProject\TestEloadasProject.csproj", "{E94DAD3B-402D-44FF-9C48-A2A289D7E173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3EB4DC-769D-453E-B7A6-DFB458C75ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3EB4DC-769D-453E-B7A6-DFB458C75ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3EB4DC-769D-453E-B7A6-DFB458C75ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3EB4DC-769D-453E-B7A6-DFB458C75ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94DAD3B-402D-44FF-9C48-A2A289D7E173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94DAD3B-402D-44FF-9C48-A2A289D7E173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94DAD3B-402D-44FF-9C48-A2A289D7E173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94DAD3B-402D-44FF-9C48-A2A289D7E173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD06074-07CC-4C83-A989-67B43CD854CE}
+	EndGlobalSection
+EndGlobal
